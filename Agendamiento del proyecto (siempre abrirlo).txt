@@ -1,0 +1,32 @@
+para el contenido del proyecto.
+
+conseguir enlaces a videos y otras paginas
+tener imagenes listas
+escribir sobre vocacion
+dar mi propio testimonio
+    paginas separadas
+inicio,proyecto vocacional,test de internet,libros,mi historia.
+
+ponerle :
+menu  (menu de la pagina listo)
+imagen
+logo
+organizar el texto
+color de fondo
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+6imagenes
+texto con 5pasos para crear proyectos 
+links para algunas palabras para tener encuenta en vocacion.
+crea una hoja de vida link a una pagina gratis.
+
+
+
+
+
+
+
+
+
+Todo lo hare en HTML en esta semana hasta el dia sabado( ya en el transcurso del tiempo mirare si lo dejare en V1).
+
+martes 1hora
